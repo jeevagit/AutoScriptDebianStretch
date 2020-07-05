@@ -22,13 +22,13 @@
 <h3 align="center">Installation (DigitalOcean)</h3>
 
 <p align="center">
-wget https://raw.githubusercontent.com/johndesu090/AutoScriptDebianStretch/master/DebianStretch && chmod +x DebianStretch && ./DebianStretch
+wget https://raw.githubusercontent.com/jeevagit/AutoScriptDebianStretch/master/DebianStretch && chmod +x DebianStretch && ./DebianStretch
 </p>
 
 <h3 align="center">Installation (VULTR)</h3>
 
 <p align="center">
-wget https://raw.githubusercontent.com/johndesu090/AutoScriptDebianStretch/master/DebianStretchV && chmod +x DebianStretchV && ./DebianStretchV
+wget https://raw.githubusercontent.com/jeevagit/AutoScriptDebianStretch/master/DebianStretchV && chmod +x DebianStretchV && ./DebianStretchV
 </p>
 
 
@@ -50,5 +50,5 @@ Recommended OS: Debian 9 Stretch x64
   <img src="https://github.com/johndesu090/AutoScriptDebianStretch/raw/master/Snapshots/4.png">
    </p>
 
-Facebook Support: https://www.facebook.com/johndesu090
+Facebook Support: https://www.facebook.com/jeevageek
    </p>
