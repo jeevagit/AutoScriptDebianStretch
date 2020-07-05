@@ -38,16 +38,16 @@ Recommended OS: Debian 9 Stretch x64
 
 <h3 align="center">Screenshots</h3>
 <p align="center">
-<img src="https://github.com/johndesu090/AutoScriptDebianStretch/raw/master/Snapshots/1.png">
+<img src="https://github.com/jeevagit/AutoScriptDebianStretch/raw/master/Snapshots/1.png">
    </p>
   <p align="center">
-  <img src="https://github.com/johndesu090/AutoScriptDebianStretch/raw/master/Snapshots/2.png">
+  <img src="https://github.com/jeevagit/AutoScriptDebianStretch/raw/master/Snapshots/2.png">
    </p>
   <p align="center">
-  <img src="https://github.com/johndesu090/AutoScriptDebianStretch/raw/master/Snapshots/3.png">
+  <img src="https://github.com/jeevagit/AutoScriptDebianStretch/raw/master/Snapshots/3.png">
   </p>
   <p align="center">
-  <img src="https://github.com/johndesu090/AutoScriptDebianStretch/raw/master/Snapshots/4.png">
+  <img src="https://github.com/jeevagit/AutoScriptDebianStretch/raw/master/Snapshots/4.png">
    </p>
 
 Facebook Support: https://www.facebook.com/jeevageek
